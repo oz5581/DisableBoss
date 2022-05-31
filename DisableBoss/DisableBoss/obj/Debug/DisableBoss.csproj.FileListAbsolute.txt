@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\bin\Debug\DisableBoss.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\bin\Debug\DisableBoss.pdb
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\bin\Debug\OTAPI.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\bin\Debug\TerrariaServer.exe
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\bin\Debug\TShockAPI.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\obj\Debug\DisableBoss.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\obj\Debug\DisableBoss.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\obj\Debug\DisableBoss.csproj.CopyComplete
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\obj\Debug\DisableBoss.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\DisableBoss\DisableBoss\obj\Debug\DisableBoss.pdb
