@@ -1,3 +1,5 @@
+⚠️ **This plugin has been merged into the [BossManager](https://github.com/Ozz5581/BossManager) Plugin.**
+
 # DisableBoss - tShock Plugin
 
 ## What is DisableBoss
